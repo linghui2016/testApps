@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app1</string>
+    <string name="first_text">Dummy App</string>
+    <string name="first_button">Get SDK Version</string>
+    <string name="second_button">Get Manifacturer</string>
+    <string name="second_text">What is your name?</string>
+    <string name="send_button">Send</string>
+</resources>
